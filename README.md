@@ -82,4 +82,5 @@ From an early age I was interested in technology and science. In addition to bei
 
 ## Github statistics
 
-Github flavoured markdown
+![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jandeschacht&show_icons=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jandeschacht)](https://github.com/pgm-jandeschacht/github-readme-stats)  
