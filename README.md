@@ -34,7 +34,7 @@ From an early age I was interested in technology and science. In addition to bei
 * **Office:** ![Word](https://img.shields.io/badge/Office-Word-blue?style=flat-square) ![Excel](https://img.shields.io/badge/Office-Excel-green?style=flat-square) ![Powerpoint](https://img.shields.io/badge/Office-Powerpoint-red?style=flat-square)
 * **Languages:** Dutch, English, French
 
-## Education
+## Experience
 
 * *2020 - present day*, City of Ostend  
   **Zone Leader Summerteam Ostend**  
@@ -54,7 +54,7 @@ From an early age I was interested in technology and science. In addition to bei
 * *2013 - 2016*, AD Delhaize De Haan  
   **Butcher**  
 
-## Experience
+## Education
 
 * *2020 - present day*,  Artevelde university college  
   **Associate degree Programming**  
