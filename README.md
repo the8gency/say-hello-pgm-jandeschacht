@@ -26,19 +26,29 @@ Lijst per categorie van skills
 
 ## Education
 
-* **Associate degree Programming**, Artevelde university college (2020 - present day)
-  
-* **Graphic design** (unfinished), Artevelde university college (2018 - 2020)
-  
-* **Communication management** (unfinished), Artevelde university college (2016 - 2018)
-  
-* **Mathematics and Sciences**, Onze-Lieve-Vrouwecollege Oostende (2012 - 2016)
-  
-* **Latin**, Onze-Lieve-Vrouwecollege Oostende (2010 - 2012)
+* **Zone Leader Summerteam Ostend**, City of Ostend (2020 - present day)
+
+* **Administrative assistant**, City of Blankenberge (2018 - 2020)
+
+* **Administrative assistant**, TUI headquarters Ostend (2017)
+
+* **Beachteam Ostend**, City of Ostend (2016)
+
+* **Production worker**, Natra Jacali Bredene (2016)
+
+* **Butcher**, AD Delhaize De Haan (2013 - 2016)
 
 ## Experience
 
-Lijst van ervaring
+* **Associate degree Programming**, Artevelde university college (2020 - present day)
+
+* **Graphic design** (unfinished), Artevelde university college (2018 - 2020)
+
+* **Communication management** (unfinished), Artevelde university college (2016 - 2018)
+
+* **Mathematics and Sciences**, Onze-Lieve-Vrouwecollege Oostende (2012 - 2016)
+
+* **Latin**, Onze-Lieve-Vrouwecollege Oostende (2010 - 2012)
 
 ## Interests
 
