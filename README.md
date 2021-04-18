@@ -1,4 +1,4 @@
-![Jan Deschacht](./img/jan_deschacht.jpeg "Jan Deschacht")
+![Jan Deschacht](./img/jan_deschacht.png "Jan Deschacht")
 
 # Jan Deschacht
 
