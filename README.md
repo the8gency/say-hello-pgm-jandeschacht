@@ -1,6 +1,6 @@
-![Jan Deschacht](./img/jan_deschacht.png "Jan Deschacht")
-
 # Jan Deschacht
+
+![Jan Deschacht](./img/jan_deschacht.png "Jan Deschacht")
 
 ## About me
 
