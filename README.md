@@ -67,11 +67,12 @@ lijst van socials
 
 ## Interests & Hobbies
 
-* Technology
-* History
-* Cryptocurrency
-* Music (drums & percussion)
-* Volleybal (Hermes Oostende)
+* :computer: Technology
+* :european_castle: History
+* :money_with_wings: Cryptocurrency
+* :running: Running
+* :musical_score: Music (drums & percussion)
+* :volleyball: Volleybal (Hermes Oostende)
 
 ## Github statistics
 
