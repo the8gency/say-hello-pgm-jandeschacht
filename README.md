@@ -27,9 +27,13 @@ Lijst per categorie van skills
 ## Education
 
 * **Associate degree Programming**, Artevelde university college (2020 - present day)
+  
 * **Graphic design** (unfinished), Artevelde university college (2018 - 2020)
+  
 * **Communication management** (unfinished), Artevelde university college (2016 - 2018)
+  
 * **Mathematics and Sciences**, Onze-Lieve-Vrouwecollege Oostende (2012 - 2016)
+  
 * **Latin**, Onze-Lieve-Vrouwecollege Oostende (2010 - 2012)
 
 ## Experience
