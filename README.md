@@ -29,8 +29,8 @@ From an early age I was interested in technology and science. In addition to bei
 
 ## Skills
 
-* **Web Development:** ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=orange) [CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue) [Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
-* **Adobe:** Photoshop, Illustrator, XD, InDesign
+* **Web Development:** ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=orange) ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue) ![Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+* **Adobe:** ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=yellow), ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=yellow), ![XD](https://img.shields.io/badge/Adobe-XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=yellow) ![InDesign](https://img.shields.io/badge/Adobe-Indesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=yellow)
 * **Office:** Word, Excel, Powerpoint
 * **Languages:** Dutch, English, French
 
