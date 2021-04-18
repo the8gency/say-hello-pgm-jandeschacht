@@ -65,9 +65,13 @@ lijst van socials
 * *2010 - 2012*,  Onze-Lieve-Vrouwecollege Oostende  
   **Latin**  
 
-## Interests
+## Interests & Hobbies
 
-Lijst van interesse's
+* Technology
+* History
+* Cryptocurrency
+* Music (drums & percussion)
+* Volleybal (Hermes Oostende)
 
 ## Github statistics
 
