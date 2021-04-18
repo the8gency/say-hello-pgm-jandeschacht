@@ -7,9 +7,13 @@ From an early age I was interested in technology and science. In addition to bei
 ## Contact
 
 :telephone_receiver: +0478 76 37 45
+
 :email: jandeschacht33@gmail.com
+
 :house_with_garden: Ostend, West-Flanders
+
 :round_pushpin: Ghent, East-Flanders
+
 :cake: 3rd July 1998
 
 ## Social
