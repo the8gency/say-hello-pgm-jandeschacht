@@ -26,7 +26,8 @@ Lijst per categorie van skills
 
 ## Education
 
-* 2020 - present day, **City of Ostend**/*Zone Leader Summerteam Ostend*
+* 2020 - present day, **City of Ostend**  
+  *Zone Leader Summerteam Ostend*
 
 * **Zone Leader Summerteam Ostend**, City of Ostend (2020 - present day)
 
