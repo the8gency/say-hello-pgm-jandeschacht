@@ -19,7 +19,11 @@ From an early age I was interested in technology and science. In addition to bei
 
 ## Social
 
-lijst van socials
+* [LinkedIn](https://www.linkedin.com/in/jan-deschacht-81a888178/ "LinkedIn")  
+* [Github](https://github.com/pgm-jandeschacht "Github")  
+* [Facebook](https://www.facebook.com/jan.deschacht/ "Facebook")  
+* [Instagram](https://www.instagram.com/jandeschacht/ "Instagram")  
+* [Twitter](https://twitter.com/BanantjeJan "Twitter")  
 
 ## Skills
 
@@ -67,12 +71,12 @@ lijst van socials
 
 ## Interests & Hobbies
 
-* :computer: Technology
-* :european_castle: History
-* :money_with_wings: Cryptocurrency
-* :running: Running
-* :musical_score: Music (drums & percussion)
-* :volleyball: Volleybal (Hermes Oostende)
+:computer: Technology  
+:european_castle: History  
+:money_with_wings: Cryptocurrency  
+:running: Running  
+:musical_score: Music (drums & percussion)  
+:volleyball: Volleybal (Hermes Oostende)  
 
 ## Github statistics
 
