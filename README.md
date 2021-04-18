@@ -29,7 +29,7 @@ From an early age I was interested in technology and science. In addition to bei
 
 ## Skills
 
-* **Web Development:** HTML, CSS, Javascript
+* **Web Development:** https://img.shields.io/badge/Code-HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=orange CSS, Javascript
 * **Adobe:** Photoshop, Illustrator, XD, InDesign
 * **Office:** Word, Excel, Powerpoint
 * **Languages:** Dutch, English, French
@@ -83,4 +83,5 @@ From an early age I was interested in technology and science. In addition to bei
 ## Github statistics
 
 ![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-jandeschacht&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jandeschacht)](https://github.com/pgm-jandeschacht/github-readme-stats)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-jandeschacht&theme=dark)  
